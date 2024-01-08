@@ -1,8 +1,8 @@
-*Description*
-
+<h2>*Description*</h2>
+  
 Simple React web application that manages user login and logout. The state is updated based on the username and password (if correct), leading to different screens: welcome screen, successful login, and failed login error.
 
-*Screenshots & Demo*
+<h3>Screenshots & Demo</h3>
 To check the demo, go to the screenshots folder and download the .mp4 file. 
 
 
